@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ﻿Nhánh phụ có text
+=======
+Nhanh phu co text 2222222222
+>>>>>>> new_brach_36_NguyenDucManh
