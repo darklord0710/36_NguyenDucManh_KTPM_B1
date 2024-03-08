@@ -1,0 +1,1 @@
+﻿Thêm text mới vào file (ban đầu là file rỗng)
